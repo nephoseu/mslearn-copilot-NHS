@@ -43,7 +43,7 @@ This exercise should take approximately **40 minutes** to complete.
 
 ## Use Copilot to explore a document and research an idea
 
-1. Download **Business Idea.docx** from the training repository.
+1. Download **Business Idea – NHS Copilot Pilot.docx** from the training repository [Allfiles/Business Idea – NHS Copilot Pilot.docx](https://github.com/nephoseu/mslearn-copilot-NHS/blob/bf6b13c48d275b3e833239c1bd9f65119cb82678/Allfiles/Business%20Idea%20%E2%80%93%20NHS%20Copilot%20Pilot.docx).
 2. Upload it to **OneDrive** and open it in **Microsoft Word**.
 3. Open the **Copilot** pane and run:
 
@@ -100,7 +100,7 @@ Include executive summary, scope, governance constraints, success measures, risk
 Rewrite this for an NHS Trust Board audience, focusing on assurance and risk.
 ```
 
-Save as **Pilot Business Case.docx**.
+Save as **HNS Pilot Business Case.docx**.
 
 ---
 
@@ -112,19 +112,17 @@ Save as **Pilot Business Case.docx**.
 Create a simple 5-year benefit model for an NHS productivity pilot using reasonable assumptions.
 ```
 
-2. Copy the table into **Excel**, format as table, and ask:
+2. Copy the table into **Excel**, format as table, save it on the OneDrive as **HNS Benefits Model.xlsx**, and ask Copilot:
 
 ```prompt
 Visualize the cost avoidance trend as a line chart.
 ```
 
-Save as **Benefits Model.xlsx**.
-
 ---
 
 ## Create a board briefing presentation
 
-1. Create a new PowerPoint and ask Copilot:
+1. Create a new PowerPoint, save it on the OneDrive as **NHS Copilot Pilot Briefing.pptx** and ask Copilot:
 
 ```prompt
 Create a presentation for an NHS Trust Board about a 12-week pilot called "Outpatient Flow Accelerator".
@@ -136,8 +134,6 @@ Include challenge, scope, governance, benefits, risks, and approvals needed.
 ```prompt
 Add a slide titled "Information Governance and Safety".
 ```
-
-Save as **NHS Copilot Pilot Briefing.pptx**.
 
 ---
 
@@ -158,6 +154,19 @@ Use a professional NHS tone.
 
 ---
 
+## Challenge
+
+Now you've seen how to use Microsoft 365 Copilot to research ideas and generate content, why not try exploring further? 
+
+Based on what you've learned in this exercise, try using Copilot to plan a meeting in which you'll propose the adoption of generative AI in your team/organization. Here are a few ideas to get you started:
+
+- Research the benefits of generative AI and Microsoft Copilot for businesses, finding information about productivity benefits, cost-savings, and examples of organizations that have already successfully adopted AI.
+- Create a discussion document that you can circulate as pre-reading before the meeting.
+- Create a presentation that you can use to present your case, including data and visualizations to emphasize key elements of your pitch.
+- Compose an email to tell your coworkers about the meeting and provide some context for it.
+
+Be as inventive as you like, and explore how Copilot can help you by finding information, generating and refining text, creating images, and answering questions.
+
 ## Conclusion
 
-You have used Microsoft 365 Copilot to explore an NHS service improvement idea end-to-end, producing documents, data insights, and leadership communications while remaining compliant and human-led.
+In this exercise, you've used [Microsoft 365 Copilot](https://www.microsoft.com/microsoft-365/enterprise/copilot-for-microsoft-365) to find information and generate content. Hopefully you've seen how using generative AI in a copilot can help with productivity and creativity. Microsoft 365 enables you to bring the power of generative AI to your business data and processes, while integrating into your existing IT infrastructure to ensure a manageable, secure solution.
