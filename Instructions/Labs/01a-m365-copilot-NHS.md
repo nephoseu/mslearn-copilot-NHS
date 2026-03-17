@@ -21,6 +21,7 @@ By the end of this exercise, you will have produced a **coherent set of NHS-appr
 
 > **Important**  
 > This exercise provides example prompts you can use with Copilot. Use them as a *starting point*. You are encouraged to modify prompts and iterate.
+> Some of the content in this course was generated with AI. Generative AI is non-deterministic and results may vary and are unpredictable.
 
 This exercise should take approximately **40 minutes** to complete.
 
@@ -31,6 +32,7 @@ This exercise should take approximately **40 minutes** to complete.
 > - Fictional training scenario  
 > - No patient-identifiable information (PII)  
 > - No clinical decision-making  
+> - Human review required for all outputs
 > - Human review required for all outputs
 
 > **NHS specific information**
