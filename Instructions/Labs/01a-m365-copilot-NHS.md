@@ -73,7 +73,15 @@ Answer with a numbered list.
 1. Ask Copilot:
 
 ```prompt
-Suggest 10 professional programme names suitable for an NHS service improvement pilot. Examine suggested names. For the sake of this lab, we will use name "Outpatient Flow Accelerator"
+Suggest 10 professional programme names suitable for an NHS service improvement pilot. Examine suggested names. 
+```
+
+> **Name selection**
+>
+> For the easy navigation in the lab, we will use name "Outpatient Flow Accelerator"
+
+```prompt
+Thank you for your suggestion, but I will use name "Outpatient Flow Accelerator"
 ```
 
 2. Create a new document and draft a business case:
