@@ -6,6 +6,8 @@ layout: home
 
 # Work Smarter with AI
 
+## Adapted Microsoft AI-3025 lab for NHS by Fast Lane and Nephos
+
 These hands-on exercises are designed to support training content on [Microsoft Learn](https://learn.microsoft.com/training/paths/work-smarter-with-ai/).
 
 To complete the exercise, you'll need <u>either</u>:
