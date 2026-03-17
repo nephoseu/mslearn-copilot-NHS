@@ -43,7 +43,7 @@ This exercise should take approximately **40 minutes** to complete.
 
 ## Use Copilot to explore a document and research an idea
 
-1. Download **Business Idea – NHS Copilot Pilot.docx** from the training repository [Allfiles/Business Idea – NHS Copilot Pilot.docx](https://github.com/nephoseu/mslearn-copilot-NHS/blob/bf6b13c48d275b3e833239c1bd9f65119cb82678/Allfiles/Business%20Idea%20%E2%80%93%20NHS%20Copilot%20Pilot.docx).
+1. Download **Business Idea – NHS Copilot Pilot.docx** from the training repository [Allfiles/Business Idea – NHS Copilot Pilot.docx](https://github.com/nephoseu/mslearn-copilot-NHS/raw/main/Allfiles/Business%20Idea%20%E2%80%93%20NHS%20Copilot%20Pilot.docx).
 2. Upload it to **OneDrive** and open it in **Microsoft Word**.
 3. Open the **Copilot** pane and run:
 
