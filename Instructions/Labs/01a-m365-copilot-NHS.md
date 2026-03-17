@@ -73,15 +73,18 @@ Answer with a numbered list.
 1. Ask Copilot:
 
 ```prompt
-Suggest 10 professional programme names suitable for an NHS service improvement pilot.
+Suggest 10 professional programme names suitable for an NHS service improvement pilot. Examine suggested names. For the sake of this lab, we will use name "Outpatient Flow Accelerator"
 ```
 
 2. Create a new document and draft a business case:
 
 ```prompt
-Write a pilot business case for the NHS programme "Outpatient Flow Accelerator" based on /Business Idea.docx.
+Write a pilot business case for the NHS programme "Outpatient Flow Accelerator" based on Bunsiness Idea - NHS.docx file on your OneDrive.
 Include executive summary, scope, governance constraints, success measures, risks, and next steps.
 ```
+> **Referencing document**
+>
+> In this example, you can reference a document that is available on your OneDrive or SharePoint by entering "/" and than selecting the file or by attaching it with the "+" sign
 
 3. Refine for board audience:
 
