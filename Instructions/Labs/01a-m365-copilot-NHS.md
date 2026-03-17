@@ -33,6 +33,12 @@ This exercise should take approximately **40 minutes** to complete.
 > - No clinical decision-making  
 > - Human review required for all outputs
 
+> **NHS specific information**
+>
+> You can consult the Microsoft 365 Copilot acceptable use policy at this link: https://support.nhs.net/knowledge-base/m365-copilot-acceptable-use-policy/
+>
+> For information about the using information protection and sensitivity labels, please consult: https://support.nhs.net/knowledge-base/sensitivity-labels-overview/
+
 ---
 
 ## Use Copilot to explore a document and research an idea
